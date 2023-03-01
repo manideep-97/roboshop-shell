@@ -49,3 +49,4 @@ for component in catalogue cart user shipping payment frontend mongodb mysql rab
   COMPONENT="${component}-dev"
   create_ec2
 done
+
